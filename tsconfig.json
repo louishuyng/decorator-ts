@@ -4,7 +4,7 @@
     "noImplicitAny": true,
     "removeComments": true,
     "preserveConstEnums": true,
-    "outFile": "dist",
+    "outFile": "./dist/",
     "sourceMap": true,
     "allowJs": true,
     "experimentalDecorators": true
