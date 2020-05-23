@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outFile": "dist",
+    "sourceMap": true,
+    "allowJs": true,
+    "experimentalDecorators": true
+  },
+
+  "include": ["index.ts"],
+  "exclude": ["node_modules", "**/*.spec.ts"]
+}
